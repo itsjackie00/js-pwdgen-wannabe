@@ -16,3 +16,7 @@ console.log(userName);
 //userLastName
 let userLastName = prompt('Inserisci il tuo cognome ..')
 console.log(userLastName);
+
+//user favorite color
+let favColor = prompt("Qual/'è il tuo colore preferito ?");
+console.log(favColor);
