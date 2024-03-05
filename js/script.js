@@ -10,6 +10,9 @@ document.write('Hello World !'); */
 
 //userName
 
-let userName = prompt('Come ti chiami ?');
+let userName = prompt('Inserisci il tuo nome ..');
 console.log(userName);
 
+//userLastName
+let userLastName = prompt('Inserisci il tuo cognome ..')
+console.log(userLastName);
